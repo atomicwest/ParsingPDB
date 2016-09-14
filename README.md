@@ -5,7 +5,7 @@
 BMP promotes bone growth and has applications in
 orthopedics and dentistry. The model in this repository
 has been taken from the Research Collaboratory for
-Structural Bioinformatics, found [here][bmpSite]
+Structural Bioinformatics, found [here][bmpSite].
 
 Run the Python script in the same directory as the pdb file
 to view the different amino acids in the protein
@@ -35,6 +35,6 @@ and oxygen among all amino acids.
                   TYR     0.08    0.04    0.00    0.06
                   VAL     0.10    0.08    0.00    0.07
           Total:          531     142     9       156
-          atomicwest:~/workspace/python/ParsePDB (master) $ 
+
 
 [bmpSite]:http://www.rcsb.org/pdb/explore.do?structureId=3BMP
